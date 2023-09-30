@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "712140880255",
+    "project_id": "recipe-app-firebase-3d22c",
+    "storage_bucket": "recipe-app-firebase-3d22c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712140880255:android:9f13a586b4c34a4b73024a",
+        "android_client_info": {
+          "package_name": "com.example.meal_plan_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHXSrSK4zGUsVaPlgLQb6rbBp03-hpEF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
